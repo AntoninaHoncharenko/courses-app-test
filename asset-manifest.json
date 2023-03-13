@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/courses-app-test/static/js/main.f6cdf716.js",
+    "index.html": "/courses-app-test/index.html",
+    "main.f6cdf716.js.map": "/courses-app-test/static/js/main.f6cdf716.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f6cdf716.js"
+  ]
+}
