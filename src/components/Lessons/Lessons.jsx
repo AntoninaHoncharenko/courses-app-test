@@ -6,12 +6,12 @@ export const Lessons = ({ lessons }) => {
         {lessons?.map(lesson => (
           <li key={lesson.id}>
             <p>{lesson.title}</p>
-            <video
+            {/* <video
               src={lessons && lessons[0].link}
               autoPlay
               controls
               crossOrigin="true"
-            ></video>
+            ></video> */}
             <p>
               Status <span>{lesson.status}</span>
             </p>

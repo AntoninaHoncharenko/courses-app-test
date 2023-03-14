@@ -30,12 +30,12 @@ const OneCourse = () => {
     <div>
       {isLoading && <p>Loading</p>}
       <p>{title}</p>
-      <video
+      {/* <video
         src={lessons && lessons[0].link}
         autoPlay
         controls
         crossOrigin="true"
-      ></video>
+      ></video> */}
 
       <p>{description}</p>
 
