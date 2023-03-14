@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/courses-app-test/static/js/main.49caf7a8.js",
+    "main.js": "/courses-app-test/static/js/main.ac58bef8.js",
     "static/js/305.a85eb8f5.chunk.js": "/courses-app-test/static/js/305.a85eb8f5.chunk.js",
-    "static/js/859.9084675a.chunk.js": "/courses-app-test/static/js/859.9084675a.chunk.js",
+    "static/js/859.6c7bfebb.chunk.js": "/courses-app-test/static/js/859.6c7bfebb.chunk.js",
     "static/js/279.968c5919.chunk.js": "/courses-app-test/static/js/279.968c5919.chunk.js",
     "index.html": "/courses-app-test/index.html",
-    "main.49caf7a8.js.map": "/courses-app-test/static/js/main.49caf7a8.js.map",
+    "main.ac58bef8.js.map": "/courses-app-test/static/js/main.ac58bef8.js.map",
     "305.a85eb8f5.chunk.js.map": "/courses-app-test/static/js/305.a85eb8f5.chunk.js.map",
-    "859.9084675a.chunk.js.map": "/courses-app-test/static/js/859.9084675a.chunk.js.map",
+    "859.6c7bfebb.chunk.js.map": "/courses-app-test/static/js/859.6c7bfebb.chunk.js.map",
     "279.968c5919.chunk.js.map": "/courses-app-test/static/js/279.968c5919.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.49caf7a8.js"
+    "static/js/main.ac58bef8.js"
   ]
 }
