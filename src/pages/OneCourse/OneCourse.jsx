@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { getOneCourse } from 'api';
 import { Lessons } from 'components/Lessons/Lessons';
+import ReactPlayer from 'react-player';
 
 const OneCourse = () => {
   const [course, setCourse] = useState([]);
@@ -30,6 +31,7 @@ const OneCourse = () => {
     <div>
       {isLoading && <p>Loading</p>}
       <p>{title}</p>
+      <ReactPlayer url={lessons && lessons[0].link} />
       {/* <video
         src={lessons && lessons[0].link}
         autoPlay
